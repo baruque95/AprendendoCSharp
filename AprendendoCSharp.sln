@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{3B8BBB92-9AA0-43E1-8A8C-3E2291DEB0C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-VariaveisDouble", "3-VariaveisDouble\3-VariaveisDouble.csproj", "{54E21033-B460-48DB-9DE3-89ABEF354819}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-VariaveisDouble", "3-VariaveisDouble\3-VariaveisDouble.csproj", "{54E21033-B460-48DB-9DE3-89ABEF354819}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversaoDeTipos", "4-ConversaoDeTipos\4-ConversaoDeTipos.csproj", "{E6D59130-82FC-4DB6-92EA-FF48DE0978BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversaoDeTipos", "4-ConversaoDeTipos\4-ConversaoDeTipos.csproj", "{E6D59130-82FC-4DB6-92EA-FF48DE0978BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Strings", "5-Strings\5-Strings.csproj", "{BCFD818F-A8C4-4D10-9E13-B87133B4004F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E6D59130-82FC-4DB6-92EA-FF48DE0978BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6D59130-82FC-4DB6-92EA-FF48DE0978BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6D59130-82FC-4DB6-92EA-FF48DE0978BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFD818F-A8C4-4D10-9E13-B87133B4004F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFD818F-A8C4-4D10-9E13-B87133B4004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFD818F-A8C4-4D10-9E13-B87133B4004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFD818F-A8C4-4D10-9E13-B87133B4004F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
